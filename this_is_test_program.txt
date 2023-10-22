@@ -1,9 +1,0 @@
-
-<<<<<<< HEAD
-Meow!
-Meow！
-
-GOOD CAT!
-=======
-Meow!
->>>>>>> parent of 1894321 (Update this_is_test_program.txt)
